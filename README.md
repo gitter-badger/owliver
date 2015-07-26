@@ -1,5 +1,7 @@
 # Owliver
 
+[![Join the chat at https://gitter.im/sharmaeklavya2/owliver](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sharmaeklavya2/owliver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Owliver is an educational site to make and take tests.
 
 ### Created by
